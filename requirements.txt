@@ -1,0 +1,7 @@
+crewai
+crewai-tools
+pandas
+plotly
+python-dotenv
+langchain-google-genai
+google-generativeai
