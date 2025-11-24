@@ -16,7 +16,7 @@ Multi-agent AI system that orchestrates five specialized agents to answer busine
 ## 📊 System Architecture
 
 User Query → Controller → Query Interpreter → Data Analyst → Visualizer → Reporter → Final Report
-                                ↓
+                                ->
                      Business Metrics Engine (Custom Tool)
 
 
